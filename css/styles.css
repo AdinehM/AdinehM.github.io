@@ -1,3 +1,4 @@
+
 table{ 
     width:70% ;
     margin-left: auto;
@@ -16,15 +17,6 @@ table{
 }   
    
 
-
-#home{
-  text-align: left;
-  font-style: italic;
-  font-size: 20px;
-  font-family: Verdana;
-  font-weight: lighter;
-}
-
 #center {
   border: 2px dashed rgb(10, 80, 21);
   text-align: center;
@@ -33,11 +25,12 @@ table{
   font-family: Verdana;
   font-weight: bold;
   color: rgba(228, 11, 3, 0.6);
-  background-color: rgba(174, 252, 155, 0.6);   
- 
+  background-color: rgba(174, 252, 155, 0.6); 
+  
 }
+
 #gallery{
-    border: 1px solid black;
+    border: 2px solid black;
     text-align: center;
     height: 180px;
     font-size: 15px;
@@ -45,6 +38,10 @@ table{
     font-weight: normal;
     background-color: rgba(166, 235, 126, 0.6);
 
+}
+
+td {
+  border:1px solid black;
 }
 
 #visit {
@@ -55,23 +52,21 @@ table{
 
 }
 
-#tab1 {
-  background-color: rgba(255, 0, 0, 0.1);
-  font-size: 15px;
-  font-family: Verdana;
-  font-weight: normal;
-}
-#head1 {
+
+h1.head1 {
     background-color: rgba(255, 0, 0, 0.3);
     font-size: 30px;
   font-family: Verdana;
   font-weight: normal;
+  border: 1px solid rgb(260, 0, 0);
+  
 }
 #head2 {
     
     font-size: 20px;
   font-family: Verdana;
   font-weight: bold;
+  text-align: center;
 }
 
 
@@ -89,4 +84,3 @@ p.center {
   font-family: Verdana;
   font-weight: normal;
 }
-
