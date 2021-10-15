@@ -1,6 +1,5 @@
-
 table{ 
-    width:70% ;
+    width:90% ;
     margin-left: auto;
     margin-right: auto;
 
@@ -25,7 +24,7 @@ table{
   font-family: Verdana;
   font-weight: bold;
   color: rgba(228, 11, 3, 0.6);
-  background-color: rgba(174, 252, 155, 0.6); 
+  background-color: rgba(220, 248, 213, 0.6); 
   
 }
 
@@ -36,7 +35,9 @@ table{
     font-size: 15px;
     font-family: Verdana;
     font-weight: normal;
-    background-color: rgba(166, 235, 126, 0.6);
+    background-color: rgba(180, 235, 148, 0.6);
+    width:90% ;
+  
 
 }
 
@@ -71,8 +72,8 @@ h1.head1 {
 
 
 #contact {
-     border: 3px solid black;
-    color: rgba(228, 11, 3, 0.6);
+     border:solid black;
+    color: rgba(250, 11, 5, 0.6);
      font-size: 25px;
      text-align: center;
      
@@ -83,4 +84,12 @@ p.center {
   font-size: 15px;
   font-family: Verdana;
   font-weight: normal;
+}
+
+nav {
+    
+  font-size: 15px;
+  font-family: Verdana;
+  text-align: center;
+
 }
