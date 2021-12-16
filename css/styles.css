@@ -10,10 +10,12 @@ h1,h2,h3,h4,h5,h6 {
   color: black;
 }
 
-p{
-  font-family:"Raleway";
-  color:black
+
+
+p1{
+  text-align: left;
 }
+
 
 body, html {
   height: 100%;
