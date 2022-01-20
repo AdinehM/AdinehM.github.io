@@ -20,12 +20,27 @@
   text-align: left;
  
 }
+.k{
+
+  font-size: 19px;
+  font-family: Verdana;
+  text-align: left;
+  color: rgb(255, 244, 244);
+}
 
 .P1{
 
   font-size: 17px;
   font-family: Verdana;
   text-align: left;
+ 
+}
+.w{
+
+  font-size: 17px;
+  font-family: Verdana;
+  text-align: left;
+  color: rgb(248, 244, 244);
  
 }
 
@@ -48,6 +63,7 @@
   font-style: italic;
   font-size: 24px;
   font-family: Verdana;
+  color: rgb(248, 244, 244);
  
   
 }
