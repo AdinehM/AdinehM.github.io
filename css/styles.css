@@ -43,6 +43,14 @@
   font-family: Verdana;
   
 }
+.p2 {
+  background-color: rgb(107, 107, 107);
+  font-style: italic;
+  font-size: 24px;
+  font-family: Verdana;
+  color: white;
+  
+}
 
 .A {
   background-color: rgb(156, 156, 156);
