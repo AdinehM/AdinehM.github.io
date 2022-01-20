@@ -44,11 +44,20 @@
   
 }
 .p2 {
-  background-color: rgb(107, 107, 107);
+  
   font-style: italic;
   font-size: 24px;
   font-family: Verdana;
-  color: white;
+ 
+  
+}
+.h2 {
+  background-color: rgb(231, 226, 226);
+  font-style: italic;
+  font-size: 24px;
+  font-family: Verdana;
+  text-align: center;
+  
   
 }
 
