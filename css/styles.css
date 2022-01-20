@@ -21,12 +21,40 @@
  
 }
 
+.P1{
+
+  font-size: 17px;
+  font-family: Verdana;
+  text-align: left;
+ 
+}
+
 
 .M {
   font-size: 18px;
   font-family: Verdana;
   text-align: center;
 }
+
+.pp {
+  background-color: rgba(199, 21, 133);
+  font-style: italic;
+  font-size: 25px;
+  font-family: Verdana;
+  
+}
+
+.A {
+  background-color: rgb(156, 156, 156);
+  font-style: italic;
+  font-size: 26px;
+  font-family: Verdana;
+  
+}
+
+
+
+
 
 
 /*
